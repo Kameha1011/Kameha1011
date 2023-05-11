@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 💫 About Me:
+#  About Me:
 🔭 MERN Stack Developer !<br>🌱 I’m currently learning TypeScript<br>
 
 
